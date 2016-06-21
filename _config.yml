@@ -1,0 +1,28 @@
+name: Patriot Cruises
+favicon: null
+layout_spectrum: 0.9663490441162139
+typography_spectrum: 0.10290856030769646
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6479461300186813
+  lightness: 0.2776144726667553
+  saturation: 0.3630436840467155
+  rhythmicContrast: 0.6354604456573725
+purpose: []
